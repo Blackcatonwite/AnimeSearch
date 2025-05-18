@@ -11,8 +11,8 @@ AnimeSearch — это простой и удобный скрипт на Python
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/твой_ник/animesearch.git
-cd animesearch
+git clone https://github.com/Blackcatonwite/AnimeSearch.git
+cd AnimeSearch
 ```
 
 2. Установите зависимости:
