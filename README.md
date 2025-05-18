@@ -1,8 +1,6 @@
 # AnimeSearch
 
 
-# AnimeSearch
-
 AnimeSearch — это простой и удобный скрипт на Python для поиска аниме с использованием Google API.  
 Проект позволяет быстро находить информацию об аниме через поисковый API Google.
 
@@ -28,7 +26,7 @@ pip install -r requirements.txt
 Запустите скрипт и введите название аниме для поиска:
 
 ```bash
-python main.py
+python app.py
 ```
 
 Пример:
