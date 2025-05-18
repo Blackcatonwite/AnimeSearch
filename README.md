@@ -1,6 +1,6 @@
 # AnimeSearch
 
-````
+
 # AnimeSearch
 
 AnimeSearch — это простой и удобный скрипт на Python для поиска аниме с использованием Google API.  
@@ -9,10 +9,11 @@ AnimeSearch — это простой и удобный скрипт на Python
 ## Установка
 
 1. Клонируйте репозиторий:
+
 ```bash
 git clone https://github.com/твой_ник/animesearch.git
 cd animesearch
-````
+```
 
 2. Установите зависимости:
 
